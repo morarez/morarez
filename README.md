@@ -1,8 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I am Morteza
+
+I am a Software Engineer at ION Group, and I’ve recently started diving into the world of **open source**, and I’m excited to collaborate, contribute, and learn from the community here on GitHub.
+
+---
+
+### 🚀 A bit about me
+
+- 🧰 I work with tools like **Kubernetes**, **Terraform**, **Ansible**, **AWS**, and **CI/CD pipelines**
+- 🛠️ Obsessed with automation and clean system design
+- 🌱 Currently exploring: **Open source contributions**, **Kubernetes**, and **Go**
+- 📫 Always open to connecting—whether it’s about tech, DevOps memes, or cool side projects
+
+---
 
 <!--
 **morarez/morarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
