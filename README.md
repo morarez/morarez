@@ -8,7 +8,7 @@ I am a Software Engineer at ION Group, and I’ve recently started diving into t
 
 - 🧰 I work with tools like **Kubernetes**, **Terraform**, **Ansible**, **AWS**, and **CI/CD pipelines**
 - 🛠️ Obsessed with automation and clean system design
-- 🌱 Currently exploring: **Open source contributions**, **Kubernetes**, and **Go**
+- 🌱 Currently exploring: **Open source contributions**, **Kubernetes**, **AI**, **Python** and **Go**
 
 <!--
 **morarez/morarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
