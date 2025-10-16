@@ -1,14 +1,14 @@
 ## Hi there 👋 I am Morteza
 
-I am a Software Engineer at ION Group, and I’ve recently started diving into the world of **open source**, and I’m excited to collaborate, contribute, and learn from the community here on GitHub.
-
+I’m a Software Engineer who enjoys working on container orchestration, automation, and building clean, efficient systems. Always excited to collaborate, share ideas, and learn from others here on GitHub.
+-  Currently working on an algorithmic trading app built with Python.
 ---
 
-### 🚀 A bit about me
+### 🛠️ Tools & Technologies
 
-- 🧰 I work with tools like **Kubernetes**, **Terraform**, **Ansible**, **AWS**, and **CI/CD pipelines**
-- 🛠️ Obsessed with automation and clean system design
-- 🌱 Currently exploring: **Open source contributions**, **Kubernetes**, **AI**, **Python** and **Go**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,golang,kubernetes,linux,bash,aws,git,jenkins,prometheus,grafana,terraform,ansible,elasticsearch,vscode,docker,&perline=8" />
+</p>
 
 <!--
 **morarez/morarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
