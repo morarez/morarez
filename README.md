@@ -1,12 +1,12 @@
 ## Hi there 👋 I am Morteza
 
-I’m a Software Engineer who enjoys working on container orchestration, automation, and building clean, efficient systems. I love collaborating, contributing, and learning from others here on GitHub. Connect with me on Discord: `mortezarez`
+I’m a Software Engineer focused on Kubernetes, platform engineering, and automation. I love collaborating, contributing, and learning from others here on GitHub. Connect with me on Discord: `mortezarez`
 -  Currently working on an algorithmic trading app built with Python.
 
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,golang,kubernetes,linux,bash,aws,git,jenkins,prometheus,grafana,terraform,ansible,elasticsearch,vscode,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,golang,kubernetes,linux,bash,aws,git,prometheus,grafana,terraform,ansible,elasticsearch,vscode,docker,jenkins&perline=8" />
 </p>
 
 <!--
