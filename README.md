@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Morteza
 
-I’m a Software Engineer focused on Kubernetes, platform engineering, and automation. I love collaborating, contributing, and learning from others here on GitHub. Connect with me on Discord: `mortezarez`
+I’m a Software Engineer focused on Kubernetes, automation, and cloud-native infrastructure. I love collaborating, contributing, and learning from others here on GitHub. Connect with me on Discord: `mortezarez`
 -  Currently working on an algorithmic trading app built with Python.
 
 ### 🛠️ Tools & Technologies
