@@ -3,7 +3,7 @@
 I’m a Software Engineer focused on Kubernetes, automation, and cloud-native infrastructure. I love collaborating, contributing, and learning from others here on GitHub. Connect with me on Discord: `mortezarez`
 -  Currently working on an algorithmic trading app built with Python.
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,golang,kubernetes,linux,bash,aws,git,prometheus,grafana,terraform,ansible,elasticsearch,vscode,docker,jenkins&perline=8" />
