@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Morteza
 
 I’m a Software Engineer focused on Kubernetes, automation, and cloud-native infrastructure. Currently working on:
-- Kubernetes operator that watches application logs and uses RAG + LLM to identify root causes and deliver insights
-- AI-powered trading system for price prediction and strategy evaluation
+- Kubernetes operator that watches application logs and uses RAG + LLM for log analysis.
+- Personal AI-powered trading assistant for price prediction and testing trading strategies.
 
 ### Tools & Technologies
 
