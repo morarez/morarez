@@ -1,4 +1,4 @@
-## Hi there 👋 I am Morteza
+## About Me
 
 I’m a Software Engineer focused on Kubernetes, automation, and cloud-native infrastructure. Currently working on:
 - Kubernetes operator that watches application logs and uses RAG + LLM for log analysis.
